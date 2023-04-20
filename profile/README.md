@@ -42,5 +42,5 @@ NIST: 800-162. ДСТУ: 28147, 15946, 9798, 4145, 319-422, 319-122.</p>
 <a href="https://axiosis.top/sep/">Книга</a> —
 <a href="https://erp.uno/">Документація</a> —
 <a href="https://n2o.dev/ua/">Фундація</a> —
-<a href="https://n2o.dev/ua/pro/">Спертифікація</a>
+<a href="https://n2o.dev/ua/pro/">Сертифікація</a>
 </p>
