@@ -10,6 +10,6 @@
 <p align="center">
 <a href="https://axiosis.top/sep/">Книга</a> –
 <a href="https://erp.uno/">Документація</a> –
-<a href="https://n2o.dev/ua//">Open Source</a> –
+<a href="https://n2o.dev/ua/">Open Source</a> –
 <a href="https://n2o.dev/ua/pro/">Специфікація</a>
 </p>
