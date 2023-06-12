@@ -39,6 +39,31 @@
 42010, 19501, 19505, 8824-8825.
 NIST: 800-162. ДСТУ: 28147, 15946, 9798, 4145, 319-422, 319-122.</p>
 
+```sh
+#/bin/sh
+
+git clone git@github.com:erpuno/sevovv
+git clone git@github.com:erpuno/cipherarch
+git clone git@github.com:erpuno/tender
+git clone git@github.com:erpuno/jrz
+git clone git@github.com:erpuno/erp.uno
+git clone git@github.com:erpuno/abac
+git clone git@github.com:erpuno/acc
+git clone git@github.com:erpuno/cart
+git clone git@github.com:erpuno/crm
+git clone git@github.com:erpuno/exo
+git clone git@github.com:erpuno/fin
+git clone git@github.com:erpuno/ft
+git clone git@github.com:erpuno/iot
+git clone git@github.com:erpuno/mail
+git clone git@github.com:erpuno/schema
+git clone git@github.com:erpuno/scm
+git clone git@github.com:erpuno/tms
+git clone git@github.com:erpuno/wms
+git clone git@github.com:erpuno/sample
+git clone git@github.com:erpuno/review
+```
+
 <p align="center">
 <a href="https://axiosis.top/sep/">Публікація</a> —
 <a href="https://erp.uno/">Документація</a> —
