@@ -41,9 +41,7 @@ NIST: 800-162. ДСТУ: 28147, 15946, 9798, 4145, 319-422, 319-122.</p>
 
 ```
 
-
   git clone git@github.com:erpuno/{abac,acc,crm,exo,fin,ft,iot,mail,schema,scm,tms,wms,sample}
-
 
 ```
 
