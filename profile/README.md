@@ -39,7 +39,7 @@
 42010, 19501, 19505, 8824-8825.
 NIST: 800-162. ДСТУ: 28147, 15946, 9798, 4145, 319-422, 319-122.</p>
 
-```
+```sh
 for depot in abac acc crm exo fin ft iot mail schema scm plm tms wms sample asn1
 do git clone git@github.com:erpuno/$depot
 done
