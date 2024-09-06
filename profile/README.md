@@ -46,7 +46,7 @@ done
 ```
 
 <p align="center">
-<a href="https://axiosis.top/sep/">Публікація</a> —
+<a href="https://axiosis.top/erp/">Публікація</a> —
 <a href="https://erp.uno/">Документація</a> —
 <a href="https://n2o.dev/ua/">Фундація</a> —
 <a href="https://n2o.dev/ua/pro/">Сертифікація</a>
