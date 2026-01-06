@@ -44,4 +44,4 @@ done
 <a href="https://n2o.dev/ua/pro/">Сертифікація</a>
 </p>
 
-<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2005—2026 Максим Сохацький</a></p>
+<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2015—2026 Максим Сохацький</a></p>
