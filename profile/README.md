@@ -26,7 +26,7 @@
 
 - **[crm](https://github.com/erpuno/crm)** — CRM: Система МІА:Документообіг
 - **[ft](https://github.com/erpuno/ft)** — FT: мова програмування FormalTalk для МІА:Документообіг
-- **[abac](https://github.com/erpuno/abac)** — ABAC: Розмежування прав доступу на основі реквізитної інформації
+- **[abac](https://github.com/erpuno/abac)** — ABAC: Розмежування прав доступу на основі реквізитної інформації МІА:Документообіг
 - **[ocr](https://github.com/erpuno/ocr)** — OCR: Система розпізнавання документів для МІА:Документообіг
 - **[scan](https://github.com/erpuno/ocr)** — SCAN: Система сканування документів для МІА:Документообіг
 - **[docx](https://github.com/erpuno/docx)** — DOCX: Процесор шаблонів для OpenXML документів для звітів МІА:Документообіг
