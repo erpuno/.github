@@ -32,7 +32,7 @@
 - **[docx](https://github.com/erpuno/docx)** — DOCX: Процесор шаблонів для OpenXML документів для звітів МІА:Документообіг
 - **[hl7](https://github.com/erpuno/hl7)** — HL7: FHIR Application Server ISO/HL7 27931:2009
 - **[med](https://github.com/erpuno/med)** — MED: Здоров'я
-- **[soa](https://github.com/erpuno/soa)** —SOA: Бібліотека SOAP для сервісів «Дія»
+- **[soa](https://github.com/erpuno/soa)** — SOA: Бібліотека SOAP для сервісів «Дія»
 - **[cart](https://github.com/erpuno/cart)** — CART: Система управління реєстрами
 - **[schema](https://github.com/erpuno/ocr)** — ERP: Схема Першої ERP системи
 - **[sevovv](https://github.com/erpuno/sevovv)** — SEVOVV: Система Електронної Взаємодії Органів Виконавчої Влади
