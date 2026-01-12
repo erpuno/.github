@@ -8,6 +8,7 @@
 - **[ft](https://github.com/erpuno/ft)** — FT: мова програмування FormalTalk для МІА:Документообіг
 - **[abac](https://github.com/erpuno/abac)** — ABAC: Розмежування прав доступу на основі реквізитної інформації МІА:Документообіг
 - **[ocr](https://github.com/erpuno/ocr)** — OCR: Система розпізнавання документів для МІА:Документообіг
+- **[mail](https://github.com/erpuno/mail)** — MAIL: Чат Месанжер Сохацького v0 імплементація на WebSocket
 - **[scan](https://github.com/erpuno/scan)** — SCAN: Система сканування документів для МІА:Документообіг
 - **[docx](https://github.com/erpuno/docx)** — DOCX: Процесор шаблонів для OpenXML документів для звітів МІА:Документообіг
 - **[hl7](https://github.com/erpuno/hl7)** — HL7: FHIR Application Server ISO/HL7 27931:2009
