@@ -16,6 +16,7 @@
 - **[soa](https://github.com/erpuno/soa)** — SOA: Бібліотека SOAP для сервісів «Дія» для ШБО «Трембіта»
 - **[cart](https://github.com/erpuno/cart)** — CART: Система управління реєстрами
 - **[erp](https://github.com/erpuno/schema)** — ERP: Схема Першої ERP системи
+- **[mqtt](https://github.com/erpuno/mqtt)** — MQTT: ISO MQTT Server 5.0
 - **[sevovv](https://github.com/erpuno/sevovv)** — SEVOVV: Система Електронної Взаємодії Органів Виконавчої Влади СЕВ ОВВ 2.0
 
 ### Місія
