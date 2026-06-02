@@ -13,6 +13,7 @@
 - **[docx](https://github.com/erpuno/docx)** — DOCX: Процесор шаблонів для OpenXML документів для звітів МІА:Документообіг
 - **[hl7](https://github.com/erpuno/hl7)** — HL7: FHIR Application Server ISO/HL7 27931:2009
 - **[med](https://github.com/erpuno/med)** — MED: Здоров'я
+- **[itsm](https://github.com/erpuno/exo)** — EXO: ITSM Серві-деск
 - **[soa](https://github.com/erpuno/soa)** — SOA: Бібліотека SOAP для сервісів «Дія» для ШБО «Трембіта»
 - **[cart](https://github.com/erpuno/cart)** — CART: Система управління реєстрами
 - **[erp](https://github.com/erpuno/schema)** — ERP: Схема Першої ERP системи
