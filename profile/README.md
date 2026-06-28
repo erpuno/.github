@@ -5,7 +5,7 @@
 # Продукти платформи ERP/1 для Ericsson/OTP
 
 - **[ias](https://github.com/erpuno/ias)** — AIS: Система ідентифікації і авторизації
-- **[crm](https://github.com/erpuno/crm)** — CRM: Система МІА:Документообіг
+- **[crm](https://github.com/erpuno/crm)** — CRM: Система документообігу
 - **[ft](https://github.com/erpuno/ft)** — FT: мова програмування FormalTalk для МІА:Документообіг
 - **[abac](https://github.com/erpuno/abac)** — ABAC: Розмежування прав доступу на основі реквізитної інформації МІА:Документообіг
 - **[ocr](https://github.com/erpuno/ocr)** — OCR: Система розпізнавання документів для МІА:Документообіг
